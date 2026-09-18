@@ -29,3 +29,4 @@ I like projects that can be shared, explored, and reproduced easily — ideally 
 - GitHub: [github.com/ch-damianidis](https://github.com/ch-damianidis)
 - LinkedIn: [linkedin.com/in/charalampos-damianidis](https://linkedin.com/in/charalampos-damianidis)
 - Email: charalampos.damianidis@gmail.com
+
