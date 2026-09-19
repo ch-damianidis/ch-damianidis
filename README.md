@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Charis 👋</h1>
-  <h3>PhD candidate in Causal Inference & Meta-Analysis | Biostatistician</h3>
+  <h3>PhD candidate in Causal Inference Methods in Meta-Analysis | Biostatistician</h3>
   
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250" alt="Rotating Network Nodes" />
 
